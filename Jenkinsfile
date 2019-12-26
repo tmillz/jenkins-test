@@ -13,5 +13,6 @@ pipeline {
 	    steps {
 		echo 'test'
 	    }
+        }
     }
 }
