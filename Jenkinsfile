@@ -1,4 +1,4 @@
-// seventh commit
+// test commit
 pipeline {
     agent {
         docker { image 'node:7-alpine' }
