@@ -1,5 +1,4 @@
-[![Build Status](https://jenkins.tmillz.com/job/jenkins-test/badge/icon?branch=master)](https://https://jenkins.tmillz.com/job/jenkins-test/)
-<br />
+![alt text](https://jenkins.tmillz.com/job/jenkins-test/badge/icon?branch=master)
 
 # jenkins-test
 A test for private jenkins server 
